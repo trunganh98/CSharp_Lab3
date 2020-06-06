@@ -1,0 +1,7 @@
+D:\C#\Session6\Session6\bin\Debug\Session6.exe.config
+D:\C#\Session6\Session6\bin\Debug\Session6.exe
+D:\C#\Session6\Session6\bin\Debug\Session6.pdb
+D:\C#\Session6\Session6\obj\Debug\Session6.csprojAssemblyReference.cache
+D:\C#\Session6\Session6\obj\Debug\Session6.csproj.CoreCompileInputs.cache
+D:\C#\Session6\Session6\obj\Debug\Session6.exe
+D:\C#\Session6\Session6\obj\Debug\Session6.pdb
